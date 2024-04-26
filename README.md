@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham borse
-- 👀 I’m interested in Ebedded development
+- 👀 I’m interested in Embedded development
 - 🌱 I’m currently learning PG-DESD 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8806013393
